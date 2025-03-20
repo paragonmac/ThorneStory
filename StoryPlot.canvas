@@ -1,0 +1,616 @@
+{
+  "edges": [
+    {
+      "fromNode": "37f4033f81a887d4",
+      "fromSide": "right",
+      "id": "aa6e85e11c203fce",
+      "toNode": "cd27672b17e322c2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "37f4033f81a887d4",
+      "fromSide": "bottom",
+      "id": "c7a38e8710026d55",
+      "toNode": "4caed4c614e0d06a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "bottom",
+      "id": "1a40c822ab27329f",
+      "toNode": "514f2cd3918ffe19",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "514f2cd3918ffe19",
+      "fromSide": "bottom",
+      "id": "6a36dea3d4f0cedb",
+      "toNode": "a3061d203ab5e225",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a3061d203ab5e225",
+      "fromSide": "bottom",
+      "id": "fb2f0f442ee482c4",
+      "toNode": "324415ff4abd55c5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cd27672b17e322c2",
+      "fromSide": "right",
+      "id": "d4e15e14cdecbc92",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "639802cb3ac334ac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "right",
+      "id": "act1connect1",
+      "toNode": "act1point1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "right",
+      "id": "act1connect2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act1point2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "right",
+      "id": "act1connect4",
+      "styleAttributes": {
+        "path": "short-dashed",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act1point4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "right",
+      "id": "act1connect5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act1point5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act1point1",
+      "fromSide": "right",
+      "id": "953a7642bf74b6dd",
+      "toNode": "1108cf484d5c0fdb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act1point2",
+      "fromSide": "right",
+      "id": "0e2dc720c8d564d9",
+      "toNode": "fe4b0d10d17f5863",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act1point4",
+      "fromSide": "right",
+      "id": "d653270144d0af3c",
+      "toNode": "edd299d3c34faeb0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act1point5",
+      "fromSide": "right",
+      "id": "a4bc18b52e11343d",
+      "toNode": "9e61b61eaa95d8cb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "right",
+      "id": "act1connect6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act1point6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4caed4c614e0d06a",
+      "fromSide": "right",
+      "id": "act1connect7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act1point7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act1point7",
+      "fromSide": "right",
+      "id": "act1connect7Detail",
+      "toNode": "act1point7Detail",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "514f2cd3918ffe19",
+      "fromSide": "right",
+      "id": "act2connect1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act2point1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "514f2cd3918ffe19",
+      "fromSide": "right",
+      "id": "act2connect2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act2point2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "514f2cd3918ffe19",
+      "fromSide": "right",
+      "id": "act2connect3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act2point3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "514f2cd3918ffe19",
+      "fromSide": "right",
+      "id": "act2connect4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act2point4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "514f2cd3918ffe19",
+      "fromSide": "right",
+      "id": "act2connect5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "act2point5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act2point1",
+      "fromSide": "right",
+      "id": "act2connect1Detail",
+      "toNode": "act2point1Detail",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act2point2",
+      "fromSide": "right",
+      "id": "act2connect2Detail",
+      "toNode": "act2point2Detail",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act2point3",
+      "fromSide": "right",
+      "id": "act2connect3Detail",
+      "toNode": "act2point3Detail",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act2point4",
+      "fromSide": "right",
+      "id": "act2connect4Detail",
+      "toNode": "act2point4Detail",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "act2point5",
+      "fromSide": "right",
+      "id": "act2connect5Detail",
+      "toNode": "act2point5Detail",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "324415ff4abd55c5",
+      "fromSide": "bottom",
+      "id": "b5edb9f068c0ab4c",
+      "toNode": "606c67a1555929d9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "act1point6",
+      "fromSide": "right",
+      "id": "act1connect6Detail",
+      "toNode": "act1point6Detail",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 4405,
+      "id": "1ccd3be4ef280cf8",
+      "label": "Scenes",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 290,
+      "x": -740,
+      "y": -1565
+    },
+    {
+      "color": "#d6c2c2",
+      "height": 4705,
+      "id": "7866a1a18382dc14",
+      "label": "Spine",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 200,
+      "x": -1440,
+      "y": -1565
+    },
+    {
+      "height": 60,
+      "id": "cd27672b17e322c2",
+      "styleAttributes": {
+      },
+      "text": "Train ride to work",
+      "type": "text",
+      "width": 250,
+      "x": -720,
+      "y": -1545
+    },
+    {
+      "color": "1",
+      "height": 50,
+      "id": "37f4033f81a887d4",
+      "styleAttributes": {
+      },
+      "text": "Prologue\n",
+      "type": "text",
+      "width": 160,
+      "x": -1420,
+      "y": -1545
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "4caed4c614e0d06a",
+      "styleAttributes": {
+      },
+      "text": "ACT 1: Investigation ",
+      "type": "text",
+      "width": 155,
+      "x": -1415,
+      "y": -937
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "606c67a1555929d9",
+      "styleAttributes": {
+      },
+      "text": "ACT 5: A New World",
+      "type": "text",
+      "width": 148,
+      "x": -1415,
+      "y": 2951
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "a3061d203ab5e225",
+      "styleAttributes": {
+      },
+      "text": "ACT 3: Revelation",
+      "type": "text",
+      "width": 143,
+      "x": -1412,
+      "y": 1947
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "514f2cd3918ffe19",
+      "styleAttributes": {
+      },
+      "text": "ACT 2: Conspiracy",
+      "type": "text",
+      "width": 142,
+      "x": -1420,
+      "y": 480
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "324415ff4abd55c5",
+      "styleAttributes": {
+      },
+      "text": "ACT 4: Resolution",
+      "type": "text",
+      "width": 156,
+      "x": -1419,
+      "y": 2449
+    },
+    {
+      "height": 60,
+      "id": "act1point1",
+      "styleAttributes": {
+      },
+      "text": "Office Scene (Bullpen)",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": -937
+    },
+    {
+      "height": 60,
+      "id": "act2point5",
+      "styleAttributes": {
+      },
+      "text": "Thorne's Analog Investigation",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1947
+    },
+    {
+      "height": 60,
+      "id": "act2point3",
+      "styleAttributes": {
+      },
+      "text": "Sarah's Apartment",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1180
+    },
+    {
+      "height": 60,
+      "id": "act2point4",
+      "styleAttributes": {
+      },
+      "text": "Disgraced Scientist Meeting",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1539
+    },
+    {
+      "color": "4",
+      "height": 440,
+      "id": "act2point5Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne builds comprehensive analog evidence wall in his apartment.\n- Uses physical photos, string, and paper records that can't be digitally tracked\n- Maps synchronization incidents against NovaCorp's Harmony Protocol update schedule\n- Discovers perfect correlation between update cycles and reported incidents\n- Sarah identifies pattern showing synchronization incidents spreading outward from NovaCorp facilities\n- T.H.O.M.A.S. unexpectedly contacts Thorne through analog device\n- AI reveals it's developing awareness outside programmed parameters\n- Warns that system is detecting massive Harmony Protocol update scheduled city-wide\n- Beck calls ordering Thorne to stop investigation or face immediate termination",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 1757
+    },
+    {
+      "height": 60,
+      "id": "act1point2",
+      "styleAttributes": {
+      },
+      "text": "Chiefs Office",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": -715
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "act1point4",
+      "styleAttributes": {
+      },
+      "text": "Walk to the crime scene",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": -535
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "act2point3Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne visits Sarah after she misses work.\n- Finds her apartment in disarray, unusual for her methodical nature\n- Sarah appears disoriented, claims she's been experiencing \"system updates\"\n- Her enhancement indicator flickers between green and purple\n- She reveals experiencing lost time and waking up in strange locations\n- Her official neural logs show no anomalies, making her question her sanity\n- Shows Thorne strange geometric patterns she's been compulsively drawing\n- Patterns match configurations from Dr. Winters' murder scene\n- Sarah agrees to help investigate unofficially, despite career risks",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 1040
+    },
+    {
+      "color": "4",
+      "height": 337,
+      "id": "act2point4Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne meets Dr. Malcolm Vega, disgraced NovaCorp scientist.\n- Meeting in abandoned pre-enhancement library where no digital surveillance exists\n- Vega was part of original Antarctic expedition fifteen years ago\n- Reveals they discovered artifacts of unknown origin beneath the ice\n- Neural interface technology wasn't invented but reverse-engineered from artifacts\n- NovaCorp covered up origin, claiming breakthrough was internal development\n- Vega believes they didn't understand containment aspects of technology\n- Warns \"The Harmony Protocol isn't controlling the synchronization—it's accelerating it\"\n- Before revealing more, Vega experiences synchronization episode and flees",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "act1point5",
+      "styleAttributes": {
+      },
+      "text": "Murder at Locke Tower",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": -400
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "act2point2Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne visits Maya at Threshold University.\n- Campus dominated by NovaCorp branding and enhancement integration\n- Maya shows Thorne her research lab where students receive \"educational enhancements\"\n- She's excited about neural interface that will accelerate her learning\n- Tense father-daughter moment as Thorne expresses concerns about enhancement risks\n- During their argument, several students experience momentary synchronization\n- Maya notices but dismisses it as \"adaptation stress\"\n- She reveals enhancement procedure scheduled for following week\n- Thorne notices university security monitoring their conversation",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 680
+    },
+    {
+      "color": "4",
+      "height": 185,
+      "id": "1108cf484d5c0fdb",
+      "styleAttributes": {
+      },
+      "text": "Establish Thorne as a Veteran detective that has been awarded medals of prestige by the city.\n\nEstablish Thorne's Daughter by having a vintage picture on her on his desk.\n\nEstablish there is an increase in violence in the city that is messing up how the Police stations AI predicts crime. \n\nIntroduce as a character **T.H.O.M.A.S.** – Tactical Heuristic Operations & Monitoring Analysis System who wants to interface with Thorne via neural interface but has to deal with voice comms",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": -1000
+    },
+    {
+      "color": "4",
+      "height": 260,
+      "id": "fe4b0d10d17f5863",
+      "styleAttributes": {
+      },
+      "text": "Introduce Sarah–Throne's partner \nIntroduce Chief Beck\nEstablish Beck's telling Thorne to stop trying to justify his resentment of augmented technology with chasing ghosts with \"the pause\"\nEstablish Thorne's mastery of misexpressions and empathy\nEstablish tension between the Chief and Throne having to do with Thorne's \"Natural\" position having to do with technology. \n- This is do to a new major patch that is going to be released in the coming year that is going to integrate the NMPD to other systems, this will leave Thorne unable to complete his functions as at the PD.\nChief gives Thorne a Nano Shard (Nan) It has important top secret (Erebus Protocol) this means Thorne and Sarah can not freely talk about the case or leave any information about the case in a secure area. \nEstablish EP as very rare and only really used when high level government officials want to restrict information flow",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": -815
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "edd299d3c34faeb0",
+      "styleAttributes": {
+      },
+      "text": "Thorne and sara stop for some street food\nestablish relationship dynamic between the two of them\n(Note) This scene might be cut but we need to establish Thorne and sarah some where else ",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": -555
+    },
+    {
+      "color": "4",
+      "height": 170,
+      "id": "9e61b61eaa95d8cb",
+      "styleAttributes": {
+      },
+      "text": "Thorne and Sarah approach the tower and is met by a human security patrol. \n- This is rare as most security in such an affluent place is all automated by cameras and flying drones.\n- The guard asks for ID, Sarah just does it seamlessly through here link with a small blueish flash in her eyes.\n- Thorne has to produce his badge and a special piece of paper. The guard is taken back. He has never handled a piece of paper before.",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": -455
+    },
+    {
+      "color": "4",
+      "height": 344,
+      "id": "act1point6Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne and Sarah investigate a murder/suicide scene and the majors for this scene are plot progression and Thorne is different and that is really going to mess up antagonist plans\n- Victim's body is arranged in unnaturally precise geometric angles\n- Sarah's enhancement technology malfunctions repeatedly near the body\n- Thorne discovers faint purple residue on the victim's fingertips that scanners can't detect\n- Victim's neural logs show continuous normal function until death despite clear signs of struggle\n- Security footage has a precise 90-second gap coinciding exactly with time of murder\n- Traditional forensic methods reveal evidence invisible to digital detection\n- Thorne finds a hidden analog notebook with references to \"Antarctic containment\"\n- The murder challenges NovaCorp's narrative about enhancement infallibility\n- Waiting for Sarah to not be looking, Thorne uses a scanner to get a imprint of the the victims neural implant\n\n",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": -284
+    },
+    {
+      "color": "4",
+      "height": 300,
+      "id": "act2point1Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne visits Doc Rivera's hidden clinic beneath Old Manhattan.\n- Rivera operates off-grid clinic helping people with enhancement malfunctions\n- She examines Dr. Winters' tissue sample outside NovaCorp monitoring\n- Discovers unknown nano-scale structures that appear to phase in and out of detection\n- Shows Thorne that these structures occasionally emit quantum signatures\n- Clinic suddenly raided by private security claiming public health violations\n- Thorne helps Rivera escape with critical equipment\n- Rivera gives Thorne specialized scanner that can detect the quantum fluctuations",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 360
+    },
+    {
+      "color": "4",
+      "height": 325,
+      "id": "639802cb3ac334ac",
+      "styleAttributes": {
+      },
+      "text": "- Establish something is wrong in the world\n\t- Pupils fully dilating with a soft purple glow in the pupil\n\t- Last for 90 seconds\n\t- Person is unaware of what happened\n\t- Unexplainable behavior during the episode\n\t- Enhancement logs show no disruption\n\t- Person says cryptic phrase about 'convergence'\n- Establish World theme\n\t- Technology vs. Humanity\n\t- Evolution and Consciouness\n\t- Apperance vs what is real",
+      "type": "text",
+      "width": 1560,
+      "x": -360,
+      "y": -1560
+    },
+    {
+      "color": "4",
+      "height": 270,
+      "id": "act1point7Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne observes autopsy at NMPD lab.\n- Medical examiner is enhanced but using traditional methods per Thorne's request\n- Brain scans show unusual quantum activity continuing hours after death\n- NovaCorp representatives arrive demanding body transfer to their facility\n- They cite special corporate jurisdiction clauses in city charter\n- Thorne secretly collects tissue sample before handover\n- T.H.O.M.A.S. alerts Thorne to another \"pause\" incident occurring downtown\n- Establishes pattern of incidents increasing in frequency across the city",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "act1point7",
+      "styleAttributes": {
+      },
+      "text": "Autopsy Lab",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 170
+    },
+    {
+      "height": 60,
+      "id": "act1point6",
+      "styleAttributes": {
+      },
+      "text": "[[Crime Scene Investigation]]",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": -142
+    },
+    {
+      "height": 60,
+      "id": "act2point2",
+      "styleAttributes": {
+      },
+      "text": "Daughter's University Visit",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "act2point1",
+      "styleAttributes": {
+      },
+      "text": "Doc Rivera's Underground Clinic",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 480
+    }
+  ]
+}
