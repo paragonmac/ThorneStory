@@ -105,3 +105,104 @@ The call ended. Thorne glanced around the train car at the enhanced passengers, 
 He thought of the case files in his jacket—three incidents now, connected by a pattern only he seemed to notice. Whether it was NovaCorp malfunctions or something else entirely, Thorne intended to find out.
 
 The train continued south, carrying him toward a precinct where he was increasingly unwelcome and a mystery that no one else seemed to see.
+
+
+---
+
+# DETECTIVE JOHN THORNE: OUT OF TIME
+
+The 6:15 southbound rattled softly beneath the neon-scarred streets of New Manhattan, rocking commuters gently into the rhythm of another indistinguishable morning. Detective John Thorne stood among them, gripping the worn leather strap above. He held a paper file—an artifact of a past few remembered, let alone respected. Around him, passengers stood transfixed by invisible streams of data, eyes shimmering softly with the spectral blue of neural feeds.
+
+No one saw anyone. No one needed to. Except Thorne.
+
+He noticed her three stops into the ride. Mid-thirties, impeccable suit, posture unnaturally precise amidst the subtle jostle of the carriage. Her enhancement indicator pulsed calmly at her temple, a gentle green, standard, reassuring—except her eyes were off. Pupils pinpricks in the muted subway lighting, her gaze perfectly straight, vacant. Not seeing, not processing. Fixed upon nothing at all.
+
+He'd seen it twice before. Both times, investigations had quietly disappeared beneath bureaucratic red tape and digital assurances that nothing was wrong.
+
+As the brakes hissed at Morris Heights station, her head tilted—exactly five degrees, a mechanical precision. Her grip on the rail slackened. Then suddenly, pupils dilated, irises vanishing into empty black.
+
+No one else reacted. No one else even noticed. Reality, after all, was digital, projected neatly onto the walls of their skulls.
+
+Thorne slipped the file into his coat and stepped closer, casual but alert. Doors opened, closed; the gentle shuffle of oblivious humanity around them faded again into the hum of acceleration.
+
+"Excuse me," Thorne spoke quietly. "Ma'am, are you all right?"
+
+She didn't reply. Her indicator pulsed green—nothing anomalous, everything fine. Thorne knew better.
+
+"I'm Detective Thorne, NMPD," he tried again, softly authoritative. "Are you feeling well?"
+
+The train lurched. She swayed naturally with the rhythm, but her eyes remained static, wide with emptiness. Then, abruptly, she blinked—twice, rapid, startled. Her pupils shrank back, normal again.
+
+"Yes?" She focused on him, mildly irritated. "Can I help you?"
+
+"You seemed," he chose carefully, "disconnected."
+
+She frowned slightly, tapping her indicator. "I'm fine. Just working." As if that explained everything—and perhaps, for everyone else, it did.
+
+"You were completely unresponsive," Thorne pressed, observing carefully. "Approximately ninety seconds. Your pupils dilated fully under direct light."
+
+Her irritation gave way to faint discomfort, quickly masked. "Impossible. My neural logs show continuous activity—" She stopped abruptly, eyes narrowing. "Who are you again?"
+
+He withdrew his badge—heavy, metallic, real—a deliberate inconvenience in a world where digital identity sufficed.
+
+"You're unenhanced." Her voice was cautious, quietly disdainful, pitying even.
+
+"I am."
+
+She nodded, guardedly relaxed. "Neural interfaces can create visual artifacts for unenhanced observers. It's documented."
+
+Prepared and smooth. He'd heard it before, too often.
+
+"Your name?"
+
+She hesitated, then spoke with clinical detachment. "Dr. Elaine Winters, NovaCorp Neurological Division."
+
+He recognized it instantly—NovaCorp's elite, responsible for the neural interfaces woven into the city's very consciousness.
+
+"Memory gaps?" he asked softly. "Unexplained moments or confusion about your location?"
+
+A flicker of something—vulnerability, fear perhaps—then extinguished with practiced ease. "Certainly not. I'd report that immediately." She glanced anxiously at the scrolling display. "This is my stop."
+
+It wasn't. They were nowhere near Central District.
+
+He didn't stop her, instead offering his card—another deliberate anachronism, ink on heavy cardstock. "Contact me if you experience anything strange."
+
+She eyed the card warily but didn't accept. "Nothing strange is happening. Enhancement technology has been stable fifteen years."
+
+The doors hissed open, and she stepped out with controlled, mechanical calm. As the doors began sliding shut, she pivoted suddenly, turning to face him through the window, eyes again fully dilated, empty.
+
+"Convergence facilitates evolutionary necessity," she stated flatly, like reciting code. Then she blinked, confusion fluttering across her face, and turned quickly away into the indifferent city.
+
+Thorne stared after her, a chill tightening his spine. He noted carefully in his battered notebook—three similar episodes now. Dilated pupils, disconnection, subsequent amnesia. Always people with high-level neural clearance. Always pristine digital logs—no records, no traces.
+
+His analog phone buzzed sharply. Sarah Chen, partner, trusted colleague, rare enhanced ally.
+
+"Thorne," he answered curtly.
+
+"Where are you?" Her voice, calm but edged. "Captain Beck's looking for you—unauthorized data requests on NovaCorp logs."
+
+"I'm coming," he said quietly. "Checking something."
+
+Another pause. "Another glitch case?" Skepticism laced her tone.
+
+"Maybe. Ever heard the phrase 'convergence facilitates evolutionary necessity'?"
+
+Silence stretched—a heartbeat longer than normal, a momentary hesitation uncharacteristic for Sarah.
+
+"No," she replied finally. "Not standard terminology."
+
+"I didn't think so."
+
+"John," her voice dropped lower, tight. "Two NovaCorp suits are here. They want to know why you're digging into memory gap cases. Watch yourself."
+
+He felt tension tightening into familiar knots along his shoulders. "Tell them I'm just being thorough."
+
+"They don't seem to value thoroughness," she said carefully. "Watch your back."
+
+The call disconnected abruptly. Thorne glanced at passengers around him, silently staring into the digital void, unaware, unconcerned, trusting utterly in the flawless illusion projected into their minds. How many had experienced moments like Winters, erased neatly from their lives, hidden by clean logs and trusted interfaces?
+
+He felt the weight of the files inside his coat—three cases now, anomalies that refused explanation, evidence of something dark crawling beneath the glittering digital facade. A puzzle everyone else was designed not to notice.
+
+The train shuddered forward, deeper into a city whose illusions were growing thin, toward answers nobody wanted found.
+
+Nobody, except John Thorne.

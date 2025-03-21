@@ -264,17 +264,6 @@
       "y": -1565
     },
     {
-      "height": 60,
-      "id": "cd27672b17e322c2",
-      "styleAttributes": {
-      },
-      "text": "[[Train ride to work]]",
-      "type": "text",
-      "width": 250,
-      "x": -720,
-      "y": -1545
-    },
-    {
       "color": "1",
       "height": 50,
       "id": "37f4033f81a887d4",
@@ -324,28 +313,6 @@
     },
     {
       "height": 60,
-      "id": "act1point6",
-      "styleAttributes": {
-      },
-      "text": "[[Crime Scene Investigation]]",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": -142
-    },
-    {
-      "height": 60,
-      "id": "act2point5",
-      "styleAttributes": {
-      },
-      "text": "Thorne's Analog Investigation",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 1947
-    },
-    {
-      "height": 60,
       "id": "act2point4",
       "styleAttributes": {
       },
@@ -378,6 +345,61 @@
       "width": 156,
       "x": -1419,
       "y": 2449
+    },
+    {
+      "height": 60,
+      "id": "act1point7",
+      "styleAttributes": {
+      },
+      "text": "Autopsy Lab",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 170
+    },
+    {
+      "height": 60,
+      "id": "act2point1",
+      "styleAttributes": {
+      },
+      "text": "Doc Rivera's Underground Clinic",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "cd27672b17e322c2",
+      "styleAttributes": {
+      },
+      "text": "[[Train ride to work]]",
+      "type": "text",
+      "width": 250,
+      "x": -720,
+      "y": -1545
+    },
+    {
+      "height": 60,
+      "id": "act1point6",
+      "styleAttributes": {
+      },
+      "text": "[[Crime Scene Investigation]]",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": -142
+    },
+    {
+      "height": 60,
+      "id": "act2point5",
+      "styleAttributes": {
+      },
+      "text": "Thorne's Analog Investigation",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1947
     },
     {
       "height": 60,
@@ -423,6 +445,28 @@
       "width": 250,
       "x": -721,
       "y": -400
+    },
+    {
+      "height": 60,
+      "id": "act2point3",
+      "styleAttributes": {
+      },
+      "text": "Sarah's Apartment",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1180
+    },
+    {
+      "height": 60,
+      "id": "act2point2",
+      "styleAttributes": {
+      },
+      "text": "Daughter's University Visit",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 820
     },
     {
       "color": "4",
@@ -471,40 +515,6 @@
       "width": 1560,
       "x": -381,
       "y": -455
-    },
-    {
-      "height": 60,
-      "id": "act1point7",
-      "styleAttributes": {
-      },
-      "text": "Autopsy Lab",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 170
-    },
-    {
-      "height": 60,
-      "id": "act2point1",
-      "styleAttributes": {
-      },
-      "text": "Doc Rivera's Underground Clinic",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 480
-    },
-    {
-      "color": "4",
-      "height": 440,
-      "id": "act2point5Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne builds comprehensive analog evidence wall in his apartment.\n- Uses physical photos, string, and paper records that can't be digitally tracked\n- Maps synchronization incidents against NovaCorp's Harmony Protocol update schedule\n- Discovers perfect correlation between update cycles and reported incidents\n- Sarah identifies pattern showing synchronization incidents spreading outward from NovaCorp facilities\n- T.H.O.M.A.S. unexpectedly contacts Thorne through analog device\n- AI reveals it's developing awareness outside programmed parameters\n- Warns that system is detecting massive Harmony Protocol update scheduled city-wide\n- Beck calls ordering Thorne to stop investigation or face immediate termination",
-      "type": "text",
-      "width": 1560,
-      "x": -384,
-      "y": 1757
     },
     {
       "color": "4",
@@ -556,18 +566,6 @@
     },
     {
       "color": "4",
-      "height": 300,
-      "id": "act2point1Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne visits Doc Rivera's hidden clinic beneath Old Manhattan.\n- Rivera operates off-grid clinic helping people with enhancement malfunctions\n- She examines Dr. Winters' tissue sample outside NovaCorp monitoring\n- Discovers unknown nano-scale structures that appear to phase in and out of detection\n- Shows Thorne that these structures occasionally emit quantum signatures\n- Clinic suddenly raided by private security claiming public health violations\n- Thorne helps Rivera escape with critical equipment\n- Rivera gives Thorne specialized scanner that can detect the quantum fluctuations",
-      "type": "text",
-      "width": 1560,
-      "x": -384,
-      "y": 360
-    },
-    {
-      "color": "4",
       "height": 325,
       "id": "639802cb3ac334ac",
       "styleAttributes": {
@@ -591,26 +589,28 @@
       "y": 65
     },
     {
-      "height": 60,
-      "id": "act2point3",
+      "color": "4",
+      "height": 440,
+      "id": "act2point5Detail",
       "styleAttributes": {
       },
-      "text": "Sarah's Apartment",
+      "text": "Thorne builds comprehensive analog evidence wall in his apartment.\n- Uses physical photos, string, and paper records that can't be digitally tracked\n- Maps synchronization incidents against NovaCorp's Harmony Protocol update schedule\n- Discovers perfect correlation between update cycles and reported incidents\n- Sarah identifies pattern showing synchronization incidents spreading outward from NovaCorp facilities\n- T.H.O.M.A.S. unexpectedly contacts Thorne through analog device\n- AI reveals it's developing awareness outside programmed parameters\n- Warns that system is detecting massive Harmony Protocol update scheduled city-wide\n- Beck calls ordering Thorne to stop investigation or face immediate termination",
       "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 1180
+      "width": 1560,
+      "x": -384,
+      "y": 1757
     },
     {
-      "height": 60,
-      "id": "act2point2",
+      "color": "4",
+      "height": 300,
+      "id": "act2point1Detail",
       "styleAttributes": {
       },
-      "text": "Daughter's University Visit",
+      "text": "Thorne visits Doc Rivera's hidden clinic beneath Old Manhattan.\n- Rivera operates off-grid clinic helping people with enhancement malfunctions\n- She examines Dr. Winters' tissue sample outside NovaCorp monitoring\n- Discovers unknown nano-scale structures that appear to phase in and out of detection\n- Shows Thorne that these structures occasionally emit quantum signatures\n- Clinic suddenly raided by private security claiming public health violations\n- Thorne helps Rivera escape with critical equipment\n- Rivera gives Thorne specialized scanner that can detect the quantum fluctuations",
       "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 820
+      "width": 1560,
+      "x": -384,
+      "y": 360
     }
   ]
 }
