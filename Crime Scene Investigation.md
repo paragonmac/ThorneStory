@@ -129,3 +129,93 @@ _As they prepare to leave:_
 **Thorne:** "That's what someone wants the enhanced to believe. They never counted on an unenhanced detective seeing what digital eyes can't."
 
 **Sarah:** "Or won't." _her enhancement indicator briefly pulses purple_
+
+
+---
+
+
+# THE PERFECT DIGITAL CRIME
+
+The air in Dr. Victor Reeves' apartment held the sterile chill of death. Thorne stood in the doorway, absorbing every detail of the scene while his partner's enhancement indicator pulsed a steady blue as she processed the digital landscape that existed beyond physical reality.
+
+"Neural stabilizers," Sarah Chen said, her eyes scanning the room without actually seeing it. "Lethal concentration. Time of death approximately nine hours ago." Her voice carried the practiced detachment of someone reading data rather than observing a man's final moments.
+
+Thorne stepped into the apartment, feeling the soft give of expensive carpet beneath his shoes. Everything was immaculate. Something about the precision of it all made Thorne pause as he studied the space where a man had supposedly spent his final desperate hours.
+
+"What are you getting from his enhancement logs?" Thorne asked, circling the body slumped beside the pristine white sofa.
+
+Sarah's eyes flickered with information. "Increasing stress patterns over the previous weeks. Final neural activity shows extreme anxiety followed by sedation. No signs of external manipulation or coercion." She paused, her enhancement completing its analysis. "All evidence indicates suicide, Thorne. He was experiencing enhancement-related stress and self-administered the stabilizers."
+
+Thorne knelt beside the body, studying the man's face. Dr. Victor Reeves had been a high-ranking NovaCorp neural interface engineer, part of the Harmony Protocol maintenance team according to the file. Now he was another statistic, another casualty of progress.
+
+Except something wasn't right.
+
+"His slippers," Thorne said, pointing to the perfectly placed footwear beside the sofa. "Look at how they're arranged."
+
+Sarah glanced down, her enhanced vision cataloging the items without registering their significance. "Standard domestic footwear. Composition is—"
+
+"They're perfectly aligned," Thorne interrupted. "Side by side, exactly parallel to the edge of the sofa. Have you ever seen a suicide scene this orderly?"
+
+Sarah frowned. "Perhaps he was meticulous."
+
+"I've seen a lot of suicides. None of them looked like this."
+
+Thorne moved to the nightstand where an empty neural stabilizer container sat. He didn't touch it, but leaned close, observing its placement.
+
+"This container is placed exactly equidistant from each edge of the nightstand. Perfect symmetry." He straightened, surveying the room. "The coffee table, too—it's precisely aligned with the sofa. Everything here is too perfect."
+
+Sarah's enhancement indicator flickered, processing the observation against her digital evidence. "Environmental scan shows no other individuals present in this apartment for 48 hours. Biometric residue confirms."
+
+Thorne moved to the body again, examining the right arm where a faint injection mark was visible. "He was left-handed," he said quietly.
+
+"That's not in his profile," Sarah replied.
+
+"No, it wouldn't be." Thorne pointed to the victim's desk across the room. "Look at the wear pattern on the surface—heavier indentations on the right side where a left-handed person would rest their writing arm. The pen calluses are on his left hand, not his right." He looked back at the injection site. "He'd have injected his left arm with his right hand if he did it himself."
+
+Sarah's enhancement indicator pulsed faster, struggling to reconcile the physical inconsistency with her digital evidence. "There must be an explanation."
+
+"There is." Thorne moved to the sofa, running his hand over the cushions. "Someone sat here." He traced a faint indentation pattern invisible to enhanced scans. "Someone sat watching him die."
+
+He knelt, examining the floor. "See these microscopic scratches? Furniture was moved, then precisely replaced."
+
+Sarah's enhancement flickered again. "None of this appears in my scan data."
+
+"It wouldn't." Thorne stood, moving deliberately around the apartment. "When was his last enhancement update?"
+
+Sarah's eyes unfocused briefly. "Standard system-wide update occurred last night. All neural interfaces were briefly offline for maintenance between 2:17 and 2:31 AM."
+
+"Interesting timing," Thorne said quietly, making a note of the update window in his worn leather notebook.
+
+He moved to the bookshelf, scanning the titles with practiced efficiency until he stopped at a technical manual that protruded slightly farther than the others. Pulling it down, he felt the weight—too light. Opening it revealed a hollowed interior containing a simple paper notebook.
+
+"An analog notebook," Sarah said, surprised. "Why would an enhanced engineer keep physical notes?"
+
+"Unless it's research he didn't want documented in a system NovaCorp controls." Thorne thumbed through the pages, stopping where one had been torn out. The next page appeared blank, but when he tilted it toward the light, faint indentations were visible.
+
+He reached into his pocket for a pencil and gently shaded across the page, revealing impressions from the missing notes. Words emerged from the graphite: "Antarctic containment" and "quantum fluctuations in neural network."
+
+Sarah leaned closer, her enhancement indicator briefly pulsing an unusual purple color. "Antarctic containment... that doesn't align with any known NovaCorp project."
+
+"That's exactly what makes it important." Thorne continued shading, revealing three key pieces of information: a diagram of what appeared to be a research facility, the phrase "quantum containment failure during trial SE-7," and a list of names.
+
+"Dr. Elaine Winters," he read aloud, the name of the woman from the subway jumping out at him. Below it was another name: "Lucian Hart."
+
+"The CEO of NovaCorp," Sarah said, her voice dropping to a whisper. "What is this?"
+
+Thorne closed the notebook carefully. "The reason someone murdered Dr. Reeves and made it look like a suicide—a suicide that would satisfy all digital forensic parameters."
+
+He looked around the meticulously arranged apartment. "They designed the perfect crime for a digital world. But I don't live in that world."
+
+Sarah's enhancement indicator glitched momentarily—a brief flicker of uncertainty as she processed the contradiction between her digital evidence and Thorne's physical findings.
+
+"I should file this as a suicide," she said, though her voice lacked conviction. "All enhancement parameters indicate—"
+
+"That's what someone wants the enhanced to believe," Thorne interrupted gently. "They never counted on an unenhanced detective seeing what digital eyes can't."
+
+Sarah looked at him, really looked at him, perhaps for the first time since they'd entered the apartment. "Or won't," she said, her enhancement indicator briefly pulsing purple again.
+
+Thorne slipped the notebook into an evidence bag, knowing this crime scene was more than a murder. It was their first concrete connection to something larger—something tied to the Antarctic expedition, to Dr. Elaine Winters' strange behavior on the subway, and to the very heart of NovaCorp itself.
+
+As they prepared to leave, Thorne took one last look at the too-perfect room. The killer had made one crucial mistake: they had only prepared for enhanced investigators. Their entire cover-up was designed to satisfy digital forensic parameters while completely overlooking physical evidence that only an unenhanced detective would notice or consider important.
+
+In a world where everyone saw through digital eyes, being analog wasn't just an anachronism. It was becoming the only way to see the truth.
