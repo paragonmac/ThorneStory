@@ -241,6 +241,16 @@
   "nodes": [
     {
       "color": "5",
+      "height": 1760,
+      "id": "6ec26e1b4013bf93",
+      "label": "Act 2",
+      "type": "group",
+      "width": 2760,
+      "x": -1520,
+      "y": 440
+    },
+    {
+      "color": "5",
       "height": 4405,
       "id": "1ccd3be4ef280cf8",
       "label": "Scenes",
@@ -262,6 +272,42 @@
       "width": 200,
       "x": -1440,
       "y": -1565
+    },
+    {
+      "height": 300,
+      "id": "464025d6d56f2b63",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 300,
+      "x": -100,
+      "y": 1240
+    },
+    {
+      "height": 300,
+      "id": "0deb127d2711b56a",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 300,
+      "x": -100,
+      "y": 1240
+    },
+    {
+      "height": 300,
+      "id": "b9d5908da8ae04c6",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 300,
+      "x": -100,
+      "y": 1240
+    },
+    {
+      "height": 300,
+      "id": "6b3c222970c3e389",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 300,
+      "x": -100,
+      "y": 1240
     },
     {
       "color": "1",
@@ -286,17 +332,6 @@
       "width": 155,
       "x": -1415,
       "y": -937
-    },
-    {
-      "height": 60,
-      "id": "act2point4",
-      "styleAttributes": {
-      },
-      "text": "Disgraced Scientist Meeting",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 1539
     },
     {
       "color": "1",
@@ -334,17 +369,6 @@
     },
     {
       "height": 60,
-      "id": "act1point7",
-      "styleAttributes": {
-      },
-      "text": "Autopsy Lab",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 170
-    },
-    {
-      "height": 60,
       "id": "act1point6",
       "styleAttributes": {
       },
@@ -353,17 +377,6 @@
       "width": 250,
       "x": -721,
       "y": -142
-    },
-    {
-      "height": 60,
-      "id": "act2point5",
-      "styleAttributes": {
-      },
-      "text": "Thorne's Analog Investigation",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 1947
     },
     {
       "color": "4",
@@ -438,18 +451,6 @@
       "y": -1560
     },
     {
-      "color": "4",
-      "height": 270,
-      "id": "act1point7Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne observes autopsy at NMPD lab.\n- Medical examiner is enhanced but using traditional methods per Thorne's request\n- Brain scans show unusual quantum activity continuing hours after death\n- NovaCorp representatives arrive demanding body transfer to their facility\n- They cite special corporate jurisdiction clauses in city charter\n- Thorne secretly collects tissue sample before handover\n- T.H.O.M.A.S. alerts Thorne to another \"pause\" incident occurring downtown\n- Establishes pattern of incidents increasing in frequency across the city",
-      "type": "text",
-      "width": 1560,
-      "x": -381,
-      "y": 65
-    },
-    {
       "color": "1",
       "height": 60,
       "id": "514f2cd3918ffe19",
@@ -459,7 +460,7 @@
       "type": "text",
       "width": 142,
       "x": -1420,
-      "y": 480
+      "y": 640
     },
     {
       "height": 60,
@@ -470,7 +471,7 @@
       "type": "text",
       "width": 250,
       "x": -721,
-      "y": 480
+      "y": 640
     },
     {
       "height": 60,
@@ -507,76 +508,6 @@
       "y": -400
     },
     {
-      "height": 60,
-      "id": "act2point3",
-      "styleAttributes": {
-      },
-      "text": "Sarah's Apartment",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 1180
-    },
-    {
-      "height": 60,
-      "id": "act2point2",
-      "styleAttributes": {
-      },
-      "text": "Daughter's University Visit",
-      "type": "text",
-      "width": 250,
-      "x": -721,
-      "y": 820
-    },
-    {
-      "color": "4",
-      "height": 340,
-      "id": "act2point3Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne visits Sarah after she misses work.\n- Finds her apartment in disarray, unusual for her methodical nature\n- Sarah appears disoriented, claims she's been experiencing \"system updates\"\n- Her enhancement indicator flickers between green and purple\n- She reveals experiencing lost time and waking up in strange locations\n- Her official neural logs show no anomalies, making her question her sanity\n- Shows Thorne strange geometric patterns she's been compulsively drawing\n- Patterns match configurations from Dr. Winters' murder scene\n- Sarah agrees to help investigate unofficially, despite career risks",
-      "type": "text",
-      "width": 1560,
-      "x": -384,
-      "y": 1040
-    },
-    {
-      "color": "4",
-      "height": 337,
-      "id": "act2point4Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne meets Dr. Malcolm Vega, disgraced NovaCorp scientist.\n- Meeting in abandoned pre-enhancement library where no digital surveillance exists\n- Vega was part of original Antarctic expedition fifteen years ago\n- Reveals they discovered artifacts of unknown origin beneath the ice\n- Neural interface technology wasn't invented but reverse-engineered from artifacts\n- NovaCorp covered up origin, claiming breakthrough was internal development\n- Vega believes they didn't understand containment aspects of technology\n- Warns \"The Harmony Protocol isn't controlling the synchronization—it's accelerating it\"\n- Before revealing more, Vega experiences synchronization episode and flees",
-      "type": "text",
-      "width": 1560,
-      "x": -384,
-      "y": 1400
-    },
-    {
-      "color": "4",
-      "height": 340,
-      "id": "act2point2Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne visits Maya at Threshold University.\n- Campus dominated by NovaCorp branding and enhancement integration\n- Maya shows Thorne her research lab where students receive \"educational enhancements\"\n- She's excited about neural interface that will accelerate her learning\n- Tense father-daughter moment as Thorne expresses concerns about enhancement risks\n- During their argument, several students experience momentary synchronization\n- Maya notices but dismisses it as \"adaptation stress\"\n- She reveals enhancement procedure scheduled for following week\n- Thorne notices university security monitoring their conversation",
-      "type": "text",
-      "width": 1560,
-      "x": -384,
-      "y": 680
-    },
-    {
-      "color": "4",
-      "height": 440,
-      "id": "act2point5Detail",
-      "styleAttributes": {
-      },
-      "text": "Thorne builds comprehensive analog evidence wall in his apartment.\n- Uses physical photos, string, and paper records that can't be digitally tracked\n- Maps synchronization incidents against NovaCorp's Harmony Protocol update schedule\n- Discovers perfect correlation between update cycles and reported incidents\n- Sarah identifies pattern showing synchronization incidents spreading outward from NovaCorp facilities\n- T.H.O.M.A.S. unexpectedly contacts Thorne through analog device\n- AI reveals it's developing awareness outside programmed parameters\n- Warns that system is detecting massive Harmony Protocol update scheduled city-wide\n- Beck calls ordering Thorne to stop investigation or face immediate termination",
-      "type": "text",
-      "width": 1560,
-      "x": -384,
-      "y": 1757
-    },
-    {
       "color": "4",
       "height": 300,
       "id": "act2point1Detail",
@@ -586,7 +517,7 @@
       "type": "text",
       "width": 1560,
       "x": -384,
-      "y": 360
+      "y": 520
     },
     {
       "color": "1",
@@ -611,6 +542,121 @@
       "width": 143,
       "x": -1412,
       "y": 2360
+    },
+    {
+      "height": 60,
+      "id": "act2point4",
+      "styleAttributes": {
+      },
+      "text": "Disgraced Scientist Meeting",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1639
+    },
+    {
+      "height": 60,
+      "id": "act2point3",
+      "styleAttributes": {
+      },
+      "text": "Sarah's Apartment",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1300
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "act2point2Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne visits Maya at Threshold University.\n- Campus dominated by NovaCorp branding and enhancement integration\n- Maya shows Thorne her research lab where students receive \"educational enhancements\"\n- She's excited about neural interface that will accelerate her learning\n- Tense father-daughter moment as Thorne expresses concerns about enhancement risks\n- During their argument, several students experience momentary synchronization\n- Maya notices but dismisses it as \"adaptation stress\"\n- She reveals enhancement procedure scheduled for following week\n- Thorne notices university security monitoring their conversation",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 820
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "act2point3Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne visits Sarah after she misses work.\n- Finds her apartment in disarray, unusual for her methodical nature\n- Sarah appears disoriented, claims she's been experiencing \"system updates\"\n- Her enhancement indicator flickers between green and purple\n- She reveals experiencing lost time and waking up in strange locations\n- Her official neural logs show no anomalies, making her question her sanity\n- Shows Thorne strange geometric patterns she's been compulsively drawing\n- Patterns match configurations from Dr. Winters' murder scene\n- Sarah agrees to help investigate unofficially, despite career risks",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 1160
+    },
+    {
+      "color": "4",
+      "height": 337,
+      "id": "act2point4Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne meets Dr. Malcolm Vega, disgraced NovaCorp scientist.\n- Meeting in abandoned pre-enhancement library where no digital surveillance exists\n- Vega was part of original Antarctic expedition fifteen years ago\n- Reveals they discovered artifacts of unknown origin beneath the ice\n- Neural interface technology wasn't invented but reverse-engineered from artifacts\n- NovaCorp covered up origin, claiming breakthrough was internal development\n- Vega believes they didn't understand containment aspects of technology\n- Warns \"The Harmony Protocol isn't controlling the synchronization—it's accelerating it\"\n- Before revealing more, Vega experiences synchronization episode and flees",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "act2point2",
+      "styleAttributes": {
+      },
+      "text": "Daughter's University Visit",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 960
+    },
+    {
+      "height": 60,
+      "id": "act2point5",
+      "styleAttributes": {
+      },
+      "text": "Thorne's Analog Investigation",
+      "type": "text",
+      "width": 250,
+      "x": -721,
+      "y": 1959
+    },
+    {
+      "height": 60,
+      "id": "act1point7",
+      "styleAttributes": {
+      },
+      "text": "Autopsy Lab",
+      "type": "text",
+      "width": 250,
+      "x": -724,
+      "y": 165
+    },
+    {
+      "color": "4",
+      "height": 270,
+      "id": "act1point7Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne observes autopsy at NMPD lab.\n- Medical examiner is enhanced but using traditional methods per Thorne's request\n- Brain scans show unusual quantum activity continuing hours after death\n- NovaCorp representatives arrive demanding body transfer to their facility\n- They cite special corporate jurisdiction clauses in city charter\n- Thorne secretly collects tissue sample before handover\n- T.H.O.M.A.S. alerts Thorne to another \"pause\" incident occurring downtown\n- Establishes pattern of incidents increasing in frequency across the city",
+      "type": "text",
+      "width": 1560,
+      "x": -384,
+      "y": 60
+    },
+    {
+      "color": "4",
+      "height": 303,
+      "id": "act2point5Detail",
+      "styleAttributes": {
+      },
+      "text": "Thorne builds comprehensive analog evidence wall in his apartment.\n- Uses physical photos, string, and paper records that can't be digitally tracked\n- Maps synchronization incidents against NovaCorp's Harmony Protocol update schedule\n- Discovers perfect correlation between update cycles and reported incidents\n- Sarah identifies pattern showing synchronization incidents spreading outward from NovaCorp facilities\n- T.H.O.M.A.S. unexpectedly contacts Thorne through analog device\n- AI reveals it's developing awareness outside programmed parameters\n- Warns that system is detecting massive Harmony Protocol update scheduled city-wide\n- Beck calls ordering Thorne to stop investigation or face immediate termination",
+      "type": "text",
+      "width": 1560,
+      "x": -381,
+      "y": 1838
     }
   ]
 }
